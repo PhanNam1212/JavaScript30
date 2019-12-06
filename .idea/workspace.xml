@@ -10,7 +10,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -27,9 +29,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\WebstormProjects\JavaScript\30.Whack A Mole" />
+      <recent name="C:\Users\ADMIN\WebstormProjects\JavaScript" />
+      <recent name="C:\Users\ADMIN\WebstormProjects\JavaScript\11.Custom HTML5 Video Player" />
       <recent name="C:\Users\ADMIN\WebstormProjects\JavaScript\1.Drum Kit\sounds" />
     </key>
   </component>
@@ -56,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575278846716</updated>
       <workItem from="1575278850724" duration="270000" />
-      <workItem from="1575279160658" duration="7439000" />
+      <workItem from="1575279160658" duration="26877000" />
+      <workItem from="1575363976933" duration="51483000" />
     </task>
     <servers />
   </component>
@@ -68,5 +75,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575279113283" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1575619506985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575619506985" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1575619506985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575619506985" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1575619506984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575619506984" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1575619506985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575619506985" />
   </component>
 </project>
